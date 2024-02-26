@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-api",
+  "name": "task-management-api",
   "version": "1.0.0",
   "description": "A Simple Task Management API with Express",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["npm", "express", "task-manager", "task-manager-api"],
+  "keywords": ["npm", "express", "task-management", "task-management-api"],
   "author": {
     "name": "vanzzdark",
     "email": "pradana134@gmail.com"
