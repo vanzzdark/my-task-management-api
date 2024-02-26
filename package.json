@@ -1,15 +1,24 @@
 {
   "name": "task-manager-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Simple Task Management API with Express",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["npm","express","task-manager","task-manager-api"],
+  "author":  {
+    "name": "vanzzdark",
+    "email": "pradana134@gmail.com",
+  },
   "license": "ISC",
-  "dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanzzdark/task-management-api"
+  },
+  "homepage": "https://github.com/vanzzdark/task-management-api#readme",
+   "dependencies": {
     "express": "^4.18.2"
   }
 }
