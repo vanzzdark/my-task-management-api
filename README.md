@@ -28,12 +28,12 @@ This is a simple Task Management API built with Express.js. It allows you to man
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-management-api.git
+   git clone https://github.com/vanzzdark/my-task-management-api.git
 
 2. **Install dependencies:**
 
    ```bash
-   cd task-management-api
+   cd my-task-management-api
    npm install
 
 3. **Start the server:**
