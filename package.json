@@ -1,6 +1,6 @@
 {
   "name": "my-task-management-api",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Simple Task Management API with Express",
   "main": "index.js",
   "scripts": {
