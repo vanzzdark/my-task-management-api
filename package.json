@@ -20,7 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vanzzdark/my-task-management-api"
+    "url": "https://github.com/vanzzdark/my-task-management-api.git"
   },
   "homepage": "https://github.com/vanzzdark/my-task-management-api#readme",
   "dependencies": {
